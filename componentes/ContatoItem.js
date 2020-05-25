@@ -16,8 +16,8 @@ const ContatoItem = (props) =>{
 const styles = StyleSheet.create({
     itemNaLista: {
         padding: 10,
-        backgroundColor: "#FC9208",
-        borderColor: "#FC9208",
+        backgroundColor: "green",
+        borderColor: "green",
         marginBottom: 2,
         marginTop: 10,
         

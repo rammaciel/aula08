@@ -136,14 +136,14 @@ export default function App() {
 
 const texto = StyleSheet.create({
     textoreturn: {
-        backgroundColor: "#FC9208",
+        backgroundColor: "green",
         padding: 10,
         marginBottom: 10,
         color: "white",
         textAlign: 'center'
     },
     textoeditar: {
-        backgroundColor: "#FC9208",
+        backgroundColor: "green",
         padding: 10,
         marginTop: 20,
         color: "white",
