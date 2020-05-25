@@ -1,13 +1,13 @@
 import { createStackNavigator } from "react-navigation-stack";
 import { createAppContainer } from 'react-navigation'
-import ListaDeLugaresTela from '../telas/ListaDeLugaresTela';
+import Contatos from '../telas/Contato';
 import { Platform } from "react-native";
 import Cores from "../constantes/Cores";
 import index from '../telas/index'
 
 const LugaresNavigator = createStackNavigator(
     {
-        Lugares: ListaDeLugaresTela,
+        Lugares: Contatos,
     
         index: index
     },
