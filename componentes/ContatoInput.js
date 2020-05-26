@@ -57,20 +57,20 @@ const styles = StyleSheet.create({
     },
     nomeInputText: {
         width: "100%",
-        borderBottomColor: "green",
+        borderBottomColor: "#FC9208",
         borderBottomWidth: 1,
         padding: 10,
         marginBottom: 20
     },
     telefoneInputText: {
         width: "100%",
-        borderBottomColor: "green",
+        borderBottomColor: "#FC9208",
         borderBottomWidth: 1,
         padding: 10,
         marginBottom: 20
     },
     textoreturn: {
-        backgroundColor: "green",
+        backgroundColor: "#FC9208",
         padding: 10,
         marginBottom: 10,
         color: "white",
